@@ -1,0 +1,7 @@
+i want to build an python small project in which i will provide a bunch of PDFs and it can able to perform sementic search on it and use langchain for this task and do not start building first build it module by module by my approval like first initialize and download the models which you use, as i have google API so you have to use google free tier models, then build RAG module like document loader then spliting it by it's sementic meaning or by structure ten store it to the vector DB then perform similarity score and then display it by streamlit instead of cli so i can upload and see the documents easily. now you can start step by step process.
+
+More Instructions:
+1. Use Stream lit for viewing uploaded documents
+2. Use Google APIs which could handle the embeddings 
+3. Use Full Object Oriented Approach for the development not any thing else
+4. Divide the code in clean manner and whenever you find complexity you can divide it into file / folders/ modules 
